@@ -1,6 +1,7 @@
 # Capstone Project: Propensity Model for Prescribing Behavior
 
 **Author:** James Peebles
+
 **Date:** July 2024
 
 This repository contains the final capstone project for predicting the propensity of healthcare providers to prescribe medications. The project leverages an artificial neural network (ANN) to analyze various features related to provider characteristics and prescribing patterns. The goal is to develop a high-accuracy predictive model that can offer valuable insights for healthcare providers and policymakers.
