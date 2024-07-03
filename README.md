@@ -14,6 +14,8 @@ This repository contains the final capstone project for predicting the propensit
 - **Model Evaluation**: Performance evaluation using metrics such as accuracy, precision, recall, and F1-score.
 - **Feature Importance and Interpretation**: Analysis of key features influencing the model's predictions.
 - **Conclusions and Recommendations**: Insights drawn from the model and suggestions for future work.
+- **Jupyter Notebook**: [Link to the Jupyter Notebook](https://github.com/JPeebles-DataScientist/Capstone/blob/main/PeeblesJ_Propensity_Final.ipynb)
+
 
 ## Data Overview
 
