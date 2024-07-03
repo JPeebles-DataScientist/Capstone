@@ -49,8 +49,10 @@ The project successfully develops an ANN model with high accuracy in predicting 
 ### Conclusions
 
 #### Model Performance:
-- The ANN model achieved an accuracy of approximately 72.89%, indicating a reasonable performance in predicting the propensity of providers to prescribe medications.
-- The confusion matrix shows that the model correctly predicted 114 positive cases and 7 negative cases, with 34 false positives and 11 false negatives.
+- The ANN model achieved an accuracy of approximately 74.10%, indicating a reasonable performance in predicting the propensity of providers to prescribe medications.
+- The confusion matrix shows:
+- 11,30 / 13,112
+- This indicates that the model correctly predicted 112 positive cases and 11 negative cases, with 30 false positives and 13 false negatives.
 
 #### Key Features:
 The most influential features in predicting prescribing behaviors include:
