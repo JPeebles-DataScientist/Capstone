@@ -31,7 +31,7 @@ The dataset used in this project includes various features related to healthcare
 - **NRx**: Number of new prescriptions.
 - **NQty**: Quantity of new prescriptions.
 - **TQty**: Total quantity of prescriptions.
-- **TRx6Mos**: Total number of prescriptions in the last six months.
+- **TRx6Mos**: Indication that a prescrictiption has been written in the last six months.
 - **Probability**: Predicted probability of prescribing.
 - **Prediction**: Binary prediction of prescribing behavior.
 
@@ -60,7 +60,7 @@ The most influential features in predicting prescribing behaviors include:
 - **Region**: Geographic location also plays a crucial role, indicating regional differences in prescribing patterns.
 - **Payment Type**: The type of payment (e.g., commercial, managed Medicaid) influences prescribing behavior.
 - **Payer Plan Lives**: The number of lives covered by the payer plan.
-- **TRx6Mos**: The total number of prescriptions in the last six months.
+- **TRx6Mos**: Indication that a prescription has been written in the last six months.
 
 ### Recommendations
 
